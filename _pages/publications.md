@@ -19,6 +19,10 @@ author_profile: true
 Yassine Nemmour, Heiner Kremer, Bernhard Schölkopf, Jia-Jie Zhu\
 *Submitted*
 
+* **Distributionally robust chance constrained programs using maximum mean discrepancy**\
+Yassine Nemmour, Heiner Kremer, Bernhard Schölkopf, Jia-Jie Zhu\
+*NeurIPS 2021, Safe and Robust Control of Uncertain Systems Workshop*
+
 * **Adversarially Robust Kernel Smoothing**\
 Jia-Jie Zhu, Christina Kouridi, Yassine Nemmour, Bernhard Schölkopf\
 *AISTATS 2022, Oral*\
