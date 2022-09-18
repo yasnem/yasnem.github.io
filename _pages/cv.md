@@ -8,12 +8,16 @@ redirect_from:
 ---
 
 {% include base_path %}
+You can download a complete CV [here]({{ site.url }}/files/CV_YassineNemmour.pdf)
+
+
 
 Education
 ======
 * B.Sc. in Mechanical Engineering, ETH Zürich, CH, 2014
 * M.Sc. in Robotics, Systems and Control, ETH Zürich, CH, 2017
-* Ph.D in Machine Learning, Max Planck Institute for Intelligent Systems, Tübingen, Germany, 2018 - now
+* Ph.D in Machine Learning, Max Planck Institute for Intelligent Systems, Tübingen, Germany, 2018 - present
+
 
 Work experience
 ======
