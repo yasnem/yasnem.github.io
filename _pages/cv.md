@@ -16,10 +16,12 @@ Education
 ======
 * B.Sc. in Mechanical Engineering, ETH Zürich, CH, 2014
 * M.Sc. in Robotics, Systems and Control, ETH Zürich, CH, 2017
-* Ph.D in Machine Learning, Max Planck Institute for Intelligent Systems, Tübingen, Germany, 2018 - present
+* Ph.D in Machine Learning, Max Planck Institute for Intelligent Systems, Tübingen, Germany, 2019 - present
 
 
 Work experience
 ======
 * 09.2015 - 02.2016: Research Engineering Internship
   * Bosch Center for Artificial Intelligence, Renningen, Germany 
+* 06.2018 - 07.2019: Research Assistant
+  * Max Planck Institute for Intelligent Systems, Tübingen, Germany
