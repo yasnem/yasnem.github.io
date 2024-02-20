@@ -18,7 +18,7 @@ author_profile: true
 * **Estimation Beyond Data Reweighting: Kernel Method of Moments**\
 Heiner Kremer, Yassine Nemmour, Bernhard Schölkopf, Jia-Jie Zhu\
 International Conference on Machine Learning (**ICML**) 2023\
-Soon on arXiv
+[arXiv](https://arxiv.org/abs/2305.10898)
 
 * **Maximum Mean Discrepancy Distributionally Robust Nonlinear Chance-Constrained Optimization with Finite-Sample Guarantee**\
 Yassine Nemmour, Heiner Kremer, Bernhard Schölkopf, Jia-Jie Zhu\

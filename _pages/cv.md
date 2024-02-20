@@ -18,10 +18,10 @@ Education
 * M.Sc. in Robotics, Systems and Control, ETH Zürich, CH, 2017
 * Ph.D in Machine Learning, Max Planck Institute for Intelligent Systems, Tübingen, Germany, 2019 - present
 
-
 Work experience
 ======
-* 09.2015 - 02.2016: Research Engineering Internship
-  * Bosch Center for Artificial Intelligence, Renningen, Germany 
+* 10.2023 - present: Applied Scientist Intern at Amazon, Luxembourg
 * 06.2018 - 07.2019: Research Assistant
   * Max Planck Institute for Intelligent Systems, Tübingen, Germany
+* 09.2015 - 02.2016: Research Engineering Internship
+  * Bosch Center for Artificial Intelligence, Renningen, Germany 

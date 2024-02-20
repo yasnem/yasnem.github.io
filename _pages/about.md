@@ -16,7 +16,8 @@ My research interests lie at the intersection of Machine Learning, Stochastic Co
 
 
 ## News
-- Our paper **Estimation Beyond Data Reweighting: Kernel Method of Moments** got accepted at ICML 2023. See you in Hawaii!
+- I will be starting as an Applied Scientist Intern at Amazon Luxembourg in October 2023, excited to start!
+- Our paper [**Estimation Beyond Data Reweighting: Kernel Method of Moments**](https://arxiv.org/abs/2305.10898) got accepted at ICML 2023. See you in Hawaii!
 - Two papers got accepted at CDC 2022: [**Maximum Mean Discrepancy Distributionally Robust Nonlinear Chance-Constrained Optimization with Finite-Sample Guarantee**](https://arxiv.org/abs/2204.11564) and [**Shallow Representation is Deep: Learning Uncertainty-aware and Worst-case Random Feature Dynamics**](https://arxiv.org/abs/2106.13066), July 2022
 - I gave a tutorial on data-driven Chance-Constrained Optimization at the [TU Berlin - Oxford Summer School](https://www3.math.tu-berlin.de/stoch/IRTG/mini-course-2022-machine-learning/), July 2022
 - I gave a talk in an invited session at [EURO2022](https://euro2022espoo.com/), July 2022
